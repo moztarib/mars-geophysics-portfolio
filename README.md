@@ -1,6 +1,6 @@
 # Mars Geophysics Portfolio
 
-Computational geophysics and geodynamics projects completed during planetary science internship. This repository showcases Python-based analysis of Martian geological data and numerical modeling techniques.
+Computational geophysics and geodynamics projects completed during planetary science internship. This repository showcases Python-based orbital data analysis of topographic/geological data and numerical modeling techniques.
 
 ## 🔴 Projects
 
@@ -16,10 +16,10 @@ Computational geophysics and geodynamics projects completed during planetary sci
 
 ### 3. Volcanic Plume Numerical Modeling
 - Computational modeling of volcanic plume dynamics on Mars
-- Simulation of associated atmospheric processes
+- Simulation of associated geophysical parameters  
 
 ## 🛠️ Technical Skills Demonstrated
-- Python scientific computing (NumPy, Pandas, Matplotlib)
+- Python scientific computing (NumPy, Pandas, Matplotlib, Scipy)
 - Geospatial data processing
 - Data interpolation and gridding techniques
 - Numerical modeling and simulation
