@@ -1,6 +1,6 @@
 # Mars Geophysics Portfolio
 
-Computational geophysics and geodynamics projects completed during planetary science internship. This repository showcases Python-based orbital data analysis of topographic/geological data and numerical modeling techniques.
+Computational geophysics and geodynamics projects completed during planetary science internship. This repository showcases Python-based orbital data analysis of topographic/geophysical data and numerical modeling techniques.
 
 ## 🔴 Projects
 
