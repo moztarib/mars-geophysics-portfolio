@@ -32,5 +32,7 @@ Python, Jupyter Notebook, QGIS integration, NumPy, Pandas, Matplotlib, SciPy
 ---
 
 **Author:** Faris Beg  
+
 **Institution:** Institute of Space Research, German Aerospace Center (DLR), Berlin | University of Nantes, France
+
 **Period:** 20 January 2025 - 20 June 2025 
