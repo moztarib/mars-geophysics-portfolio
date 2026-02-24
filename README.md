@@ -1,6 +1,6 @@
 # Mars Geophysics Portfolio — Noctis Mons Investigation
 
-Computational geophysics and geodynamics projects completed during a planetary science internship at the **Institute of Planetary Research, German Aerospace Center (DLR), Berlin**, under the supervision of Dr. Adrien Broquet. This repository contains the Python-based orbital data analysis and numerical modelling underpinning a Master's thesis published and accessible via ESSOAr.
+This repository contains computational geophysics and geodynamics projects completed during a planetary science internship at the **Institute of Planetary Research, German Aerospace Center (DLR), Berlin**, under the supervision of Dr. Adrien Broquet. The Python-based orbital data analysis developed here along with numerical models underpin a Master's thesis published and accessible via ESSOAr.
 
 ---
 
