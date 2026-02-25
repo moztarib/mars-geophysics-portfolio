@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+geopandas
+pyshtools
+cmcrameri
+Displacement_strain_planet
