@@ -36,7 +36,7 @@ Processing and interpretation of Mars Advanced Radar for Subsurface and Ionosphe
 
 ---
 
-### 3. '03-DSP_Plume-modeling/' - Numerical Modeling: Plume supported Dynamic Uplift
+### 3. `03-DSP_Plume-modeling/` - Numerical Modeling: Plume supported Dynamic Uplift
 
 Analytical elastic flexure modelling of plume-induced crustal uplift beneath Noctis Mons. Constrains mantle plume dimensions by fitting predicted surface deformation to the observed topographic signal.
 
