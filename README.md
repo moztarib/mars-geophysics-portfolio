@@ -25,11 +25,8 @@ Noctis Mons is a recently identified, heavily fractured shield volcano located i
 ## Projects
 
 ### 1. `01-MOLA-volcanic-reconstruction/` — MOLA Topographic Analysis & Surface Reconstruction
-*Notebooks: `Point_Distribution_Interpolation_QGIS.ipynb`, `Reconstruction_Volcanic_Surface.ipynb`*
 
-Extracts a ~2000 km regional DEM around Noctis Mons from the MOLA spherical harmonic model. Multi-azimuth radial elevation profiles are used to identify the lateral extent of volcanic uplift, cross-referenced against tectonic fault maps. The volcanic construct is masked and the pre-volcanic surface is reconstructed via RBF interpolation. An uplift grid is computed and integrated over spherical grid-cell areas to estimate the volume of the uplifted terrain.
-
-**Methods:** MOLA SH expansion (`pyshtools`), Radial Basis Function interpolation (`scipy`), great-circle profile extraction, spline detrending, spherical volume integration
+Extracts a ~2000 km regional DEM around Noctis Mons from the MOLA spherical harmonic model. Multi-azimuth radial elevation profiles are used to identify the lateral extent of volcanic uplift, cross-referenced against tectonic fault maps. The volcanic construct is masked and the pre-volcanic surface is reconstructed via RBF interpolation.
 
 ---
 
@@ -39,7 +36,7 @@ Processing and interpretation of Mars Advanced Radar for Subsurface and Ionosphe
 
 ---
 
-### 3. Numerical Plume Modelling *(coming soon)*
+### 3. '03-DSP_Plume-modeling/' - Numerical Modeling: Plume supported Dynamic Uplift
 
 Analytical elastic flexure modelling of plume-induced crustal uplift beneath Noctis Mons. Constrains mantle plume dimensions by fitting predicted surface deformation to the observed topographic signal.
 
