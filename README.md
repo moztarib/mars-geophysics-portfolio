@@ -1,6 +1,6 @@
 # Mars Geophysics Portfolio — Noctis Mons Investigation
 
-Computational geophysics and geodynamics projects completed during a planetary science internship at the **Institute of Planetary Research, German Aerospace Center (DLR), Berlin**, under the supervision of Dr. Adrien Broquet. This repository contains the Python-based orbital data analysis and numerical modelling underpinning a Master's thesis published and accessible via ESSOAr.
+This repository contains computational geophysics and geodynamics projects completed during a planetary science internship at the **Institute of Planetary Research, German Aerospace Center (DLR), Berlin**, under the supervision of Dr. Adrien Broquet. The Python-based orbital data analysis developed here along with numerical models underpin a Master's thesis published and accessible via ESSOAr.
 
 ---
 
@@ -8,8 +8,8 @@ Computational geophysics and geodynamics projects completed during a planetary s
 
 > **Beg, F.** (2025). *Geophysical Investigation of Noctis Volcano on (equatorial) Mars using MOLA, MARSIS, and Numerical Plume Modelling.* Master's Thesis, University of Nantes. DOI: [10.22541/essoar.176218868.89744519/v1](https://dx.doi.org/10.22541/essoar.176218868.89744519/v1)
 >
-> 📄 [Full record — German Aerospace Center (DLR) eLibrary](https://elib.dlr.de/222060/) &nbsp;|&nbsp; Open Access, DLR - Research area:	Raumfahrt | R EW - Space Exploration | Research theme (Project):	R - Exploration of the Solar System, R - Planetary Evolution and Life
-
+> [Full record — eLibrary DLR](https://elib.dlr.de/222060/) 📚 &nbsp;|&nbsp; Open Access, DLR - Research area:	Raumfahrt | R EW - Space Exploration | Research theme (Project):	R - Exploration of the Solar System, R - Planetary Evolution and Life
+book
 ---
 
 ## Research Summary
@@ -24,7 +24,7 @@ Noctis Mons is a recently identified, heavily fractured shield volcano located i
 
 ## Projects
 
-### 1. `noctis-mons-reconstruction/` — MOLA Topographic Analysis & Surface Reconstruction
+### 1. `01-MOLA-volcanic-reconstruction/` — MOLA Topographic Analysis & Surface Reconstruction
 *Notebooks: `Point_Distribution_Interpolation_QGIS.ipynb`, `Reconstruction_Volcanic_Surface.ipynb`*
 
 Extracts a ~2000 km regional DEM around Noctis Mons from the MOLA spherical harmonic model. Multi-azimuth radial elevation profiles are used to identify the lateral extent of volcanic uplift, cross-referenced against tectonic fault maps. The volcanic construct is masked and the pre-volcanic surface is reconstructed via RBF interpolation. An uplift grid is computed and integrated over spherical grid-cell areas to estimate the volume of the uplifted terrain.
@@ -33,7 +33,7 @@ Extracts a ~2000 km regional DEM around Noctis Mons from the MOLA spherical harm
 
 ---
 
-### 2. MARSIS Radargram Analysis *(coming soon)*
+###  2. `02-MARSIS-radargram-analysis/` — MARSIS Radargram Analysis and Subsurface compositional modelling
 
 Processing and interpretation of Mars Advanced Radar for Subsurface and Ionosphere Sounding (MARSIS) data over the Noctis Mons region. Includes radargram visualisation, signal processing, and derivation of subsurface dielectric properties used to estimate basalt porosity.
 
