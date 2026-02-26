@@ -1,15 +1,16 @@
 # Mars Geophysics Portfolio — Noctis Mons Investigation
 
-This repository contains computational geophysics and geodynamics projects completed during a planetary science internship at the **Institute of Planetary Research, German Aerospace Center (DLR), Berlin**, under the supervision of Dr. Adrien Broquet. The Python-based orbital data analysis developed here along with numerical models underpin a Master's thesis published and accessible via ESSOAr.
+This repository contains computational geophysics and geodynamics projects completed during a planetary science internship at the **Institute of Planetary Research, German Aerospace Center (DLR), Berlin**, under the supervision of Dr. Adrien Broquet. The Python-based orbital data analysis developed here, along with numerical models, underpin a Master's thesis published and accessible via ESSOAr.
 
 ---
 
 ## Publication
 
-> **Beg, F.** (2025). *Geophysical Investigation of Noctis Volcano on (equatorial) Mars using MOLA, MARSIS, and Numerical Plume Modelling.* Master's Thesis, University of Nantes. DOI: [10.22541/essoar.176218868.89744519/v1](https://dx.doi.org/10.22541/essoar.176218868.89744519/v1)
 >
-> [Full record — eLibrary DLR](https://elib.dlr.de/222060/) 📚 &nbsp;|&nbsp; Open Access, DLR - Research area:	Raumfahrt | R EW - Space Exploration | Research theme (Project):	R - Exploration of the Solar System, R - Planetary Evolution and Life
-book
+> [Full record — eLibrary DLR](https://elib.dlr.de/222060/) 📚 &nbsp;|&nbsp; Open Access, DLR - Research area:	Raumfahrt| EW - Space Exploration| Research theme (Project)- Exploration of the Solar System, Planetary Evolution and Life
+>
+> **Beg, F.** (2025). *Geophysical Investigation of Noctis Volcano on (equatorial) Mars using MOLA, MARSIS, and Numerical Plume Modelling.* Master's Thesis, University of Nantes. DOI: [10.22541/essoar.176218868.89744519/v1](https://dx.doi.org/10.22541/essoar.176218868.89744519/v1)
+
 ---
 
 ## Research Summary
