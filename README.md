@@ -57,22 +57,27 @@ Navigate to the project folder (e.g. `01-MOLA-volcanic-reconstruction/`) and ope
 ## Projects
 ### 1. `01-MOLA-volcanic-reconstruction/` — MOLA Topographic Analysis & Surface Reconstruction
 Extracts a ~2000 km regional DEM around Noctis Mons from the MOLA spherical harmonic model. Multi-azimuth radial elevation profiles are used to identify the lateral extent of volcanic uplift, cross-referenced against tectonic fault maps. The volcanic construct is masked and the pre-volcanic surface is reconstructed via RBF interpolation.
+
 ---
 ###  2. `02-MARSIS-radargram-analysis/` — MARSIS Radargram Analysis and Subsurface compositional modelling
 Processing and interpretation of Mars Advanced Radar for Subsurface and Ionosphere Sounding (MARSIS) data over the Noctis Mons region. Includes radargram visualisation, signal processing, and derivation of subsurface dielectric properties used to estimate basalt porosity.
+
 ---
 ### 3. `03-DSP_Plume-modeling/` - Numerical Modeling: Plume supported Dynamic Uplift
 Analytical elastic flexure modelling of plume-induced crustal uplift beneath Noctis Mons. Constrains mantle plume dimensions by fitting predicted surface deformation to the observed topographic signal.
+
 ---
 ## Technical Skills Demonstrated
-- Planetary remote sensing data processing (MOLA, MARSIS)
-- Spherical harmonic expansion and global DEM analysis
-- Geospatial data processing and shapefile integration (GeoPandas, QGIS)
-- Grid interpolation and surface reconstruction (RBF, spline)
-- Radar signal analysis and dielectric property inversion
-- Analytical geophysical modelling (elastic flexure)
-- Scientific visualisation (Matplotlib, 3-D surface plots, elevation profiles)
+- Large-scale raster data processing and dataset integration (MOLA, MARSIS)
+- Quantitative spatial modelling and numerical analysis at scale (spherical harmonics, DEM)
+- Geospatial data analysis and GIS workflow automation (GeoPandas, QGIS)
+- Data interpolation and reconstruction from sparse inputs (RBF, spline methods)
+- Signal processing and inverse problem solving (radar dielectric inversion)
+- Analytical physical modelling and scenario testing (elastic flexure)
+- Data visualisation and insight communication (Matplotlib, 3D surface plots)
+
 ---
+
 ## Tools & Libraries
 Python, Jupyter Notebook, NumPy, SciPy, Matplotlib, GeoPandas, pyshtools, Shapely, QGIS
 ---
